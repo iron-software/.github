@@ -4,11 +4,13 @@
 
 Iron Software produces a suite of software libraries for .NET engineers working with PDF, OCR, Excel, and Barcodes.
 
-## Iron Software Products
-**[Iron Suite for .NET](https://ironsoftware.com/suite/)** : [IronPDF](https://ironpdf.com/) ・ [IronOCR](https://ironsoftware.com/csharp/ocr/) ・ [IronBarcode](https://ironsoftware.com/csharp/barcode/) ・ [IronXL](https://ironsoftware.com/csharp/excel/) ・ [IronWebscraper](https://ironsoftware.com/csharp/webscraper/)
+## Iron Suite for .NET[^1]
+[IronPDF](https://ironpdf.com/) • [IronOCR](https://ironsoftware.com/csharp/ocr/) • [IronBarcode](https://ironsoftware.com/csharp/barcode/) • [IronXL](https://ironsoftware.com/csharp/excel/) • [IronWebscraper](https://ironsoftware.com/csharp/webscraper/)
 
 ## Get in touch
-[About Us](https://ironsoftware.com/about-us/) | [Contact Us](https://ironsoftware.com/contact-us/)
+[About Us](https://ironsoftware.com/about-us/) • [Contact Us](https://ironsoftware.com/contact-us/)
 
 ### External Links
-[Website](https://ironsoftware.com/) | [LinkedIn](https://www.linkedin.com/company/ironsoftware/) | [Twitter](https://twitter.com/ironsoftwaredev) | [Facebook](https://www.facebook.com/teamironsoftware/)
+[Website](https://ironsoftware.com/) • [LinkedIn](https://www.linkedin.com/company/ironsoftware/) • [Twitter](https://twitter.com/ironsoftwaredev) • [Facebook](https://www.facebook.com/teamironsoftware/)
+
+[^1]: [Iron Suite: All 5 Products for the Price of 2](https://ironsoftware.com/suite/)
