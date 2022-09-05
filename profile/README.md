@@ -10,7 +10,7 @@ Iron Software produces a suite of software libraries for .NET engineers working 
 We are always looking for outstanding C#, C++, and Java Software Engineers. Easily apply at: https://ironsoftware.com/careers/
 
 ## Get in Touch with the Team
-Are you smart enough to find a bug or design a brilliant feature request.  Our developers want to [hear your feedback and ideas](https://ironsoftware.com/contact-us/#helpscout-support).
+Are you smart enough to find a bug or design a brilliant feature request? Our developers want to [hear your feedback and ideas](https://ironsoftware.com/contact-us/#helpscout-support).
 We have real time support in 4 time zones.
 
 ## External Links
