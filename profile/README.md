@@ -1,6 +1,6 @@
-[![Iron Software GitHub Readme Banner](https://raw.githubusercontent.com/iron-software/.github/main/assets/ironsoftware_banner.png)](https://ironsoftware.com/)
-
 # Iron Software Official GitHub Page
+
+[![Iron Software GitHub Readme Banner](https://raw.githubusercontent.com/iron-software/.github/main/assets/ironsoftware_banner.png)](https://ironsoftware.com/)
 
 ### Iron Suite - The .NET Suite for Your Office
 
