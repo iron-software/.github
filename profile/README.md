@@ -8,13 +8,13 @@ Iron Software produces a suite of software libraries for .NET engineers working 
 
 ## Iron Software Open Source Projects
 
-<img src="https://img.shields.io/badge/%E2%80%8EOpen%20Source-%20%E2%9C%93-107C10?logo=opensourceinitiative&style=flat-square">
-
 Iron Software manages free open-source projects with contributions from the community.
 
 [**IronSoftware.Drawing.Common**](https://github.com/iron-software/IronSoftware.Drawing.Common) • [**IronBenchmarks**](https://github.com/iron-software/IronBenchmarks)
 
-## We are Hiring!
+<img src="https://img.shields.io/badge/%E2%80%8EOpen%20Source-%20%E2%9C%93-107C10?logo=opensourceinitiative&style=flat-square">
+
+## We're Hiring!
 We are always looking for outstanding C#, C++, and Java Software Engineers. Easily apply at: https://ironsoftware.com/careers/
 
 ## Get in Touch with the Team
