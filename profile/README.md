@@ -6,13 +6,13 @@ Iron Software produces a suite of software libraries for .NET engineers working 
 
 [**IronPDF**](https://ironpdf.com/) • [**IronOCR**](https://ironsoftware.com/csharp/ocr/) • [**IronBarcode**](https://ironsoftware.com/csharp/barcode/) • [**IronXL**](https://ironsoftware.com/csharp/excel/) • [**IronWebscraper**](https://ironsoftware.com/csharp/webscraper/)
 
-## Iron Software Open Source Projects
+## Iron Open Source Projects
 
 Iron Software manages free open-source projects with contributions from the community.
 
 [**IronSoftware.Drawing.Common**](https://github.com/iron-software/IronSoftware.Drawing.Common) • [**IronBenchmarks**](https://github.com/iron-software/IronBenchmarks)
 
-<img src="https://img.shields.io/badge/%E2%80%8EOpen%20Source-%20%E2%9C%93-107C10?logo=opensourceinitiative&style=flat-square">
+<a href="https://github.com/iron-software/IronSoftware.Drawing.Common"><img src="https://img.shields.io/badge/%E2%80%8EOpen%20Source-%20%E2%9C%93-107C10?logo=opensourceinitiative&style=flat-square"></a>
 
 ## We're Hiring!
 We are always looking for outstanding C#, C++, and Java Software Engineers. Easily apply at: https://ironsoftware.com/careers/
