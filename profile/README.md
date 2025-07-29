@@ -2,7 +2,7 @@
 
 ## Iron Suite - The .NET Suite for Your Office
 
-Iron Software produces a suite of software libraries for .NET engineers working with PDF, OCR, Excel, Word, and QR/Barcodes.
+Iron Software produces a suite of software libraries for .NET engineers working with PDF, OCR, Excel, Word, Powerpoint, and QR/Barcodes.
 
 [**IronPDF**](https://ironpdf.com/) • [**IronOCR**](https://ironsoftware.com/csharp/ocr/) • [**IronXL**](https://ironsoftware.com/csharp/excel/) • [**IronWord**](https://ironsoftware.com/csharp/word/) • [**IronZIP**](https://ironsoftware.com/csharp/zip/) • [**IronQR**](https://ironsoftware.com/csharp/qr/) • [**IronBarcode**](https://ironsoftware.com/csharp/barcode/) • [**IronPrint**](https://ironsoftware.com/csharp/print/) • [**IronPPT**](https://ironsoftware.com/csharp/ppt/) • [**IronWebscraper**](https://ironsoftware.com/csharp/webscraper/)
 
