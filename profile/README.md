@@ -1,6 +1,6 @@
 [![Iron Software GitHub Readme Banner](https://raw.githubusercontent.com/iron-software/.github/main/assets/ironsoftware_banner.png)](https://ironsoftware.com/)
 
-## Iron Suite - The .NET Suite for Your Office
+## Iron Suite - The .NET Document Library Suite
 
 Iron Software produces a suite of software libraries for .NET engineers working with PDF, OCR, Excel, Word, Powerpoint, and QR/Barcodes.
 
