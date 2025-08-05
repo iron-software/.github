@@ -1,4 +1,4 @@
-[![Iron Software GitHub Readme Banner](https://raw.githubusercontent.com/iron-software/.github/main/assets/ironsoftware_banner.png)](https://ironsoftware.com/)
+[![Iron Software GitHub Readme Banner](https://github.com/iron-software/.github/blob/main/assets/ironsoftware_banner_1.png)](https://ironsoftware.com/)
 
 ## Iron Suite - The .NET Document Library Suite
 
